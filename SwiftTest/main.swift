@@ -10,3 +10,13 @@ import Foundation
 
 print("Hello, World!")
 
+var t = 13423
+
+t = Int(1.9232)
+
+//var s = "sdfsdfdsf333"
+
+let s : Double = 23.2323
+print(s)
+
+print(t)
